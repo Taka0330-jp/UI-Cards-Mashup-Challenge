@@ -1,9 +1,9 @@
-![UI Cards Preview](public/images/preview.png)
 
 # E-commerce Product Cards
 
 This project is a collection of product card components built with
 React and Tailwind CSS. It was created as part of coursework in the BCIT.
+![UI Cards Preview](public/images/preview.webp)
 
 ## Overview 
 This project focuses on visually polished product cards with a strong
