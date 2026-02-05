@@ -1,4 +1,3 @@
-
 # E-commerce Product Cards
 
 This project is a collection of product card components built with
@@ -44,3 +43,7 @@ interaction pattern.
 ```bash
 pnpm install
 pnpm run dev
+```
+
+## Live Demo
+🚀 [View Live Site](https://ui-cards-mashup-challenge-juxt.vercel.app/)
