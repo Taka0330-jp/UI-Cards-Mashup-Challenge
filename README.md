@@ -1,3 +1,5 @@
+![UI Cards Preview](public/images/preview.png)
+
 # E-commerce Product Cards
 
 This project is a collection of product card components built with
